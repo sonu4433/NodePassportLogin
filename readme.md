@@ -22,7 +22,7 @@
 
  - ## Register Page
 
- ![Register](https://user-images.githubusercontent.com/34272420/0657895-cda9b980-1c82-11ea-8f49-96fe98e5e16e.png)
+ ![Register](https://user-images.githubusercontent.com/34272420/70698994-73ded900-1cee-11ea-8ec2-54b39c4611a3.png)
 
  ***
 
